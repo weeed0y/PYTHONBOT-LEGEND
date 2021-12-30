@@ -1,5 +1,5 @@
 {
-  "name": "Ultra-X-PythonBot",
+  "name": "Dark-Python",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
     "keywords": [
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9/",
+  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9/",
   "success_url": "https://t.me/Python_Userbot_Support",
   "env": {
     "ENV": {
