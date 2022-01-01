@@ -54,17 +54,17 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/138d8d3cdaaf2731b3a55.jpg",
       "required": true
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/138d8d3cdaaf2731b3a55.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/7949b91419c14f3b91bc3.jpg",
+      "value": "https://telegra.ph/file/138d8d3cdaaf2731b3a55.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -74,7 +74,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/138d8d3cdaaf2731b3a55.jpg",
       "required": true
     },
     "PM_MSG": {
