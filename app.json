@@ -54,17 +54,17 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/73291554e700e61a8d963.jpg",
+      "value": "https://te.legra.ph/file/a2803c9a51aa0213939f9.jpg",
       "required": true
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/73291554e700e61a8d963.jpg",
+      "value": "https://te.legra.ph/file/a2803c9a51aa0213939f9.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/73291554e700e61a8d963.jpg",
+      "value": "https://te.legra.ph/file/a2803c9a51aa0213939f9.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -74,7 +74,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/138d8d3cdaaf2731b3a55.jpg",
+       "value": "https://te.legra.ph/file/a2803c9a51aa0213939f9.jpg",
       "required": true
     },
     "PM_MSG": {
@@ -132,7 +132,7 @@
        "value": ""
     }, 
     "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+      "description": "Get this value by running https://replit.com/@Weedb0y0/PYTHONBOT-4#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -206,7 +206,7 @@
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   },{
-    "url":"https://github.com/amivin/aria2-heroku.git"
+    "url":"https://github.com/weedb0y/aria2-heroku.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
