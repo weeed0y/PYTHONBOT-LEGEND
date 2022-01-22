@@ -132,7 +132,7 @@
        "value": ""
     }, 
     "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@Weedb0y0/PYTHONBOT-4#main.py ",
+      "description": "Get this value by running https://replit.com/@Weedb0y/PYTHONBOT-4#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -204,9 +204,9 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/weedb0y/heroku-buildpack-ffmpeg-latest"
   },{
-    "url":"https://github.com/weedb0y/aria2-heroku.git"
+    "url":"https://github.com/weedb0y/kktheuniqueboy-heroku.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
